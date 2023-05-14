@@ -1,0 +1,35 @@
+{
+    "columns": [
+      {
+        "key": "data",
+        "title": "DATA",
+        "sortable": true,
+        "searchable": true
+      },
+      {
+        "key": "product_name",
+        "title": "PRODUCT NAME",
+        "sortable": true,
+        "searchable": true
+      },
+      {
+        "key": "production_status",
+        "title": "STATUS",
+        "sortable": true,
+        "searchable": true
+      },
+      {
+        "key": "product_amount",
+        "title": "AMOUNT",
+        "sortable": true,
+        "searchable": false
+      },
+      {
+        "key": "report_date",
+        "title": "DATE",
+        "sortable": true,
+        "searchable": false
+      }
+    ]
+  }
+  
